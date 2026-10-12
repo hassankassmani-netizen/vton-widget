@@ -2,7 +2,7 @@
 
 (function () { 
   var iframe = document.createElement('iframe'); 
-  iframe.src = "YAHAN_APNA_LIVE_URL_PASTE_KAREIN"; 
+  iframe.src = "https://b2b-virtual-try-on-w-8jvw.bolt.host/"; 
   iframe.style.position = "fixed"; 
   iframe.style.bottom = "20px"; 
   iframe.style.right = "20px"; 
