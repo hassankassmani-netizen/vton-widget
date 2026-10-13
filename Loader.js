@@ -2,7 +2,7 @@
 
 (function () { 
   var iframe = document.createElement('iframe'); 
-  iframe.src = "https://b2b-virtual-try-on-w-8jvw.bolt.host/"; 
+  iframe.src = "https://virtual-try-on-widge-vcyq.bolt.host"; 
   iframe.style.position = "fixed"; 
   iframe.style.bottom = "20px"; 
   iframe.style.right = "20px"; 
